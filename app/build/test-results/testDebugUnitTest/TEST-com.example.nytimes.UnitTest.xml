@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.nytimes.UnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-12T10:36:17" hostname="kgosimore" time="0.024">
+  <properties/>
+  <testcase name="article_exists" classname="com.example.nytimes.UnitTest" time="0.017"/>
+  <testcase name="article_has_url" classname="com.example.nytimes.UnitTest" time="0.004"/>
+  <testcase name="article_has_title" classname="com.example.nytimes.UnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

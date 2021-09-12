@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-sw600dp-v13/fragment_article_detail.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout-sw600dp/fragment_article_detail.xml"
+    },
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-sw600dp-v13/fragment_article_list.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout-sw600dp/fragment_article_list.xml"
+    }
+]

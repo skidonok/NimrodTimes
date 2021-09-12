@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.nytimes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:8:5-28:19
+14        android:allowBackup="true"
+14-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] /Users/skido/.gradle/caches/transforms-3/e759884e8e1539e68246ec4d8729cc98/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:11:9-43
+18        android:label="@string/app_name"
+18-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:12:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:13:9-54
+20        android:supportsRtl="true"
+20-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:14:9-35
+21        android:theme="@style/Theme.NYTimes"
+21-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:15:9-45
+22        android:usesCleartextTraffic="true" >
+22-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:10:9-44
+23        <activity
+23-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:16:9-18:39
+24            android:name="com.example.nytimes.ArticleDetails"
+24-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:17:13-43
+25            android:exported="true" />
+25-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:18:13-36
+26        <activity
+26-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:19:9-27:20
+27            android:name="com.example.nytimes.MainActivity"
+27-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:20:13-41
+28            android:exported="true" >
+28-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:21:13-36
+29            <intent-filter>
+29-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:22:13-26:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:23:17-69
+30-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:23:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:25:17-77
+32-->/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/AndroidManifest.xml:25:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->[com.google.android.gms:play-services-base:17.6.0] /Users/skido/.gradle/caches/transforms-3/9c15973630c7a9f89aa06ccc065ad6df/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+36            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+36-->[com.google.android.gms:play-services-base:17.6.0] /Users/skido/.gradle/caches/transforms-3/9c15973630c7a9f89aa06ccc065ad6df/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+37            android:exported="false"
+37-->[com.google.android.gms:play-services-base:17.6.0] /Users/skido/.gradle/caches/transforms-3/9c15973630c7a9f89aa06ccc065ad6df/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+38            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+38-->[com.google.android.gms:play-services-base:17.6.0] /Users/skido/.gradle/caches/transforms-3/9c15973630c7a9f89aa06ccc065ad6df/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+39
+40        <meta-data
+40-->[com.google.android.gms:play-services-basement:17.6.0] /Users/skido/.gradle/caches/transforms-3/2cd9a3c0462f5da9047b7e2659d117b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+41            android:name="com.google.android.gms.version"
+41-->[com.google.android.gms:play-services-basement:17.6.0] /Users/skido/.gradle/caches/transforms-3/2cd9a3c0462f5da9047b7e2659d117b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+42            android:value="@integer/google_play_services_version" />
+42-->[com.google.android.gms:play-services-basement:17.6.0] /Users/skido/.gradle/caches/transforms-3/2cd9a3c0462f5da9047b7e2659d117b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+43    </application>
+44
+45</manifest>

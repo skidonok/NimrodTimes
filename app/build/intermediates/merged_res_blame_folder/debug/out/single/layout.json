@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/article_list_content.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout/article_list_content.xml"
+    },
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_article_details.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout/activity_article_details.xml"
+    },
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/article_item.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout/article_item.xml"
+    },
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_article_list.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout/fragment_article_list.xml"
+    },
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_article_detail.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout/fragment_article_detail.xml"
+    },
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_article_detail.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout/activity_article_detail.xml"
+    },
+    {
+        "merged": "/Users/skido/AndroidStudioProjects/NYTimes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/skido/AndroidStudioProjects/NYTimes/app/src/main/res/layout/activity_main.xml"
+    }
+]

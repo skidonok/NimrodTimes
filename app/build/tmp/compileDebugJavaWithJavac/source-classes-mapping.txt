@@ -1,0 +1,33 @@
+com/example/nytimes/databinding/ActivityArticleDetailsBinding.java
+ com.example.nytimes.databinding.ActivityArticleDetailsBinding
+com/example/nytimes/controller/API.java
+ com.example.nytimes.controller.API
+com/example/nytimes/databinding/ActivityArticleDetailBinding.java
+ com.example.nytimes.databinding.ActivityArticleDetailBinding
+com/example/nytimes/model/Media.java
+ com.example.nytimes.model.Media
+com/example/nytimes/adapters/ArticlesAdapter.java
+ com.example.nytimes.adapters.ArticlesAdapter
+ com.example.nytimes.adapters.ArticlesAdapter$MyViewHolder
+com/example/nytimes/MainActivity.java
+ com.example.nytimes.MainActivity
+ com.example.nytimes.MainActivity$1
+ com.example.nytimes.MainActivity$2
+com/example/nytimes/databinding/ActivityMainBinding.java
+ com.example.nytimes.databinding.ActivityMainBinding
+com/example/nytimes/databinding/FragmentArticleDetailBinding.java
+ com.example.nytimes.databinding.FragmentArticleDetailBinding
+com/example/nytimes/model/Article.java
+ com.example.nytimes.model.Article
+ com.example.nytimes.model.Article$1
+com/example/nytimes/databinding/FragmentArticleListBinding.java
+ com.example.nytimes.databinding.FragmentArticleListBinding
+com/example/nytimes/databinding/ArticleListContentBinding.java
+ com.example.nytimes.databinding.ArticleListContentBinding
+com/example/nytimes/databinding/ArticleItemBinding.java
+ com.example.nytimes.databinding.ArticleItemBinding
+com/example/nytimes/ArticleDetails.java
+ com.example.nytimes.ArticleDetails
+ com.example.nytimes.ArticleDetails$1
+com/example/nytimes/BuildConfig.java
+ com.example.nytimes.BuildConfig
